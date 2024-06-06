@@ -1,5 +1,5 @@
 libraries{
-  custom_maven{}
+  custom_maven
   pipeline_utils{}
 }
 

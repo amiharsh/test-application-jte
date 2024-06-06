@@ -2,7 +2,6 @@ libraries{
   maven{
     message: "Hello From Base Template"
   }
-  custom_maven{}
   pipeline_utils{}
 }
 

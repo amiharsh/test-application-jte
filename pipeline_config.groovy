@@ -2,7 +2,7 @@ libraries{
   maven{
     message = "Hello From Application Template"
   }
-  custom_pipeline_utils
+  pipeline_utils{}
 }
 
 application_environments{

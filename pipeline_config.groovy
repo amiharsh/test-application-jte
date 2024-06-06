@@ -3,7 +3,6 @@ libraries{
     message = "Hello From Application Template"
     author = "Harsh"
   }
-  pipeline_utils{}
 }
 
 application_environments{

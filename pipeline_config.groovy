@@ -1,6 +1,6 @@
 libraries{
   maven{
-    message: "Hello From Base Template"
+    message = "Hello From Application Template"
   }
 }
 

@@ -2,7 +2,6 @@ libraries{
   maven{
     message: "Hello From Base Template"
   }
-  pipeline_utils{}
 }
 
 application_environments{

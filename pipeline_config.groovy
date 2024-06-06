@@ -3,7 +3,7 @@ libraries{
     message = "Hello From Application Template"
     author = "Harsh"
   }
-  pipeline_utils{}
+  custom_pipeline_utils{}
 }
 
 application_environments{

@@ -1,6 +1,7 @@
 libraries{
   maven{
     message = "Hello From Application Template"
+    author = "Harsh"
   }
   pipeline_utils{}
 }

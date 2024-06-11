@@ -1,3 +1,4 @@
+
 libraries{
   maven{
     message = "Hello From Application Template"
@@ -17,6 +18,6 @@ application_environments{
 keywords{
     application_name = "WindowsApplication" // Required - Actual Application name (ex. VOR, AMI, BDP, SCP)
     service = "Web" // Required
-    bypassing_fortify=true
+    bypass_fortify=true
 
 }

@@ -17,6 +17,6 @@ application_environments{
 keywords{
     application_name = "WindowsApplication" // Required - Actual Application name (ex. VOR, AMI, BDP, SCP)
     service = "Web" // Required
-    bypassing_fortify=false
+    bypassing_fortify=true
 
 }

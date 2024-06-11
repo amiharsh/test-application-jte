@@ -18,5 +18,5 @@ application_environments{
 keywords{
     application_name = "WindowsApplication" // Required - Actual Application name (ex. VOR, AMI, BDP, SCP)
     service = "Web" // Required
-    fortify_scan_disabled=true
+    fortify_scan_enabled=false
 }

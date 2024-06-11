@@ -13,3 +13,10 @@ application_environments{
   test{
   	ip_addresses = [ "1.1.1.1", "2.2.2.2" ]}
 }
+
+keywords{
+    application_name = "WindowsApplication" // Required - Actual Application name (ex. VOR, AMI, BDP, SCP)
+    service = "Web" // Required
+    bypassing_fortify=false
+
+}

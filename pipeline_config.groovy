@@ -1,5 +1,5 @@
 jte{
-    pipeline_template = "rollback"
+    // pipeline_template = "rollback"
 }
 
 libraries{

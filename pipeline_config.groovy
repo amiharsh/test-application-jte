@@ -1,7 +1,4 @@
 
-jte{
-    pipeline_template = "rollback"
-}
 libraries{
   maven{
     message = "Hello From Application Template"

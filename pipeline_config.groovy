@@ -1,5 +1,5 @@
 jte{
-    pipeline_template = "Rollback"
+    pipeline_template = "rollback"
 }
 libraries{
   maven{

@@ -1,6 +1,6 @@
-jte{
-    pipeline_template = "rollback"
-}
+// jte{
+//     pipeline_template = "rollback"
+// }
 
 libraries{
   maven{
@@ -21,8 +21,4 @@ application_environments{
 keywords{
     application_name = "WindowsApplication" // Required - Actual Application name (ex. VOR, AMI, BDP, SCP)
     service = "Web" // Required
-
-    // fortify_scan_enabled=false
-    // rollback_enabled=true
-    // rollback_branch="feature/test1"
 }
